@@ -11,6 +11,7 @@ VPN Setup and Analysis - Detailed Guide
 - Visit the provider's official website and create a free account using your email.
 
 
+![image](https://github.com/user-attachments/assets/3e32e096-76f1-4c89-b34f-96dff5bd03ec)
 
 
 ---
@@ -30,6 +31,9 @@ VPN Setup and Analysis - Detailed Guide
 - Click “Connect” and wait for confirmation that you are connected.
 
 ---
+
+![image](https://github.com/user-attachments/assets/a42c8fcd-e221-496c-9dfc-570f88c7d3e9)
+
 
 4. Verify your IP address has changed
 - Open a browser and visit: https://whatismyipaddress.com
